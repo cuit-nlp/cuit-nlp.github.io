@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Westlake University',
-  description: 'dll home page',
+  title: 'Chengdu University of Information Technology',
+  description: 'home page of CUIT-NLP group',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
