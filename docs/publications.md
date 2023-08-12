@@ -8,6 +8,12 @@
 
 ## 2021
 
+**Multi-self-attention for aspect category detection and biomedical multilabel text classification with bert**
+
+_Xuelei Zhang, Xinyu Song, Ao Feng\*, Zhengjie Gao_
+
+<div style='display: flex'><a href="https://www.hindawi.com/journals/mpe/2021/6658520/"><img src="https://img.shields.io/badge/Paper-Journal-brightgreen" /></a> </div>
+
 ## 2020
 
 **Modeling multi-targets sentiment classification via graph convolutional networks and auxiliary relation**
