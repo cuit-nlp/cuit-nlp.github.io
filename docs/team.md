@@ -62,6 +62,10 @@ const current_members = [
 const graduate_members = [
     {
         avatar: './image/placehold.jpg',
+        name: '陈郑淏',
+    },
+    {
+        avatar: './image/placehold.jpg',
         name: '徐天豪',
     },
     {
