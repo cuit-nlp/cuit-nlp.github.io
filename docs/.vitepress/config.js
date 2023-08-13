@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 
+// 中文文档 https://process1024.github.io/vitepress/guide/what-is-vitepress
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'Chengdu University of Information Technology',
