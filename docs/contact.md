@@ -1,12 +1,7 @@
 ---
 layout: doc
 ---
-<script setup>
-import { useData } from 'vitepress'
-
-const { theme } = useData()
-</script>
-<h1>{{ theme.nav[1]['text'] }}</h1>
+ 
 
 Address：Hangkonggang Campus (航空港校区)
 
