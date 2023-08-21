@@ -211,25 +211,7 @@ _Ao Feng, Bin Liu, Zengxiang Lu, Haiming Lu, Pu Wang, Yanda Li_
 </div>
 
 
-## 2000
 
-**Applying Information Agents in Open Bookmark Service**
-
-_Ao Feng, Zengxiang Lu, Bin Liu\*, Haiming Lu, Yanda Li_
-
-
-
-
-**Analysis and Application of Multi-index system**
-
-_Ao Feng, Bin Liu\*, Nan Zhu_
-
-
-
-
-**Research on Information Evaluator in VIPU System**
-
-_Ao Feng, Zengxiang Lu, Bin Liu, Haiming Lu_
 
 
 
