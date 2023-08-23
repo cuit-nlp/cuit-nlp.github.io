@@ -124,8 +124,10 @@ const graduate_members = [
         name: '徐天豪',
     },
     {
-        avatar: './image/placehold.jpg',
+        avatar: './image/sxy.jpg',
         name: '宋馨宇',
+        title: '2018级',
+        desc:'即将就职于成都医联科技有限公司，方向：医学大模型，情感状况：单身',
     },
     {
         avatar: './image/placehold.jpg',
