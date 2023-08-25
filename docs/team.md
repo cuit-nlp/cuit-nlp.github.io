@@ -150,8 +150,10 @@ const graduate_members = [
         name: '王维宽',
     },
     {
-        avatar: './image/placehold.jpg',
+        avatar: './image/zxl.jpg',
         name: '张学磊',
+        title: '2019级',
+        desc:'现就职于电信科学技术第五研究所',
     },
 ];
 </script>
