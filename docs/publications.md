@@ -89,7 +89,7 @@ _Zhengjie Gao, Ao Feng\*, Xinyu Song, Xi Wu_
     <a href="https://ieeexplore.ieee.org/abstract/document/8864964/"><img src="https://img.shields.io/badge/Journal-IEEE Access-brightgreen" /></a> 
     <a href="https://ieeexplore.ieee.org/abstract/document/8864964/"><img src="https://img.shields.io/badge/3区-ff69b4" /></a>
     &nbsp;<a href='https://github.com/gaozhengjie/TD-BERT'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a>
-    &nbsp;<a style="pointer-events:none;"><img src="https://img.shields.io/badge/Cited times in Google Scholar-330-4e71f2" /></a>
+    &nbsp;<a style="pointer-events:none;"><img src="https://img.shields.io/badge/Cited times in Google Scholar-334-4e71f2" /></a>
 </div>
 
 
