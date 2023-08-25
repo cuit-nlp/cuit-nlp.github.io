@@ -40,7 +40,7 @@ const current_members = [
         ]
     },
     {
-        avatar: './image/placehold.jpg',
+        avatar: './image/cjz.jpg',
         name: '蔡佳志',
         title: '2020级',
         desc: 'His research interests include sentiment analysis, information extraction, and deep learning.',
