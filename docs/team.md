@@ -33,6 +33,10 @@ const current_members = [
     {
         avatar: './image/placehold.jpg',
         name: '张举',
+        title: '2020级',
+        links: [
+            {icon: 'github', link: 'https://github.com/ZimoLoveShuang'},
+        ]
     },
     {
         avatar: './image/placehold.jpg',
@@ -116,8 +120,9 @@ const current_members = [
 
 const graduate_members = [
     {
-        avatar: './image/placehold.jpg',
+        avatar: './image/czh.png',
         name: '陈郑淏',
+        title: '2019级'
     },
     {
         avatar: './image/placehold.jpg',
@@ -127,7 +132,7 @@ const graduate_members = [
         avatar: './image/sxy.jpg',
         name: '宋馨宇',
         title: '2018级',
-        desc:'成都医联科技有限公司，方向：医学大模型',
+        desc:'从事工业目标检测相关工作',
     },
     {
         avatar: './image/placehold.jpg',
