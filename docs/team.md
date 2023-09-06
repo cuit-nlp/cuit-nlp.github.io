@@ -139,7 +139,7 @@ const current_members = [
     },
     {
         avatar: './image/wxy.jpg',
-        name: '王馨怡',
+        name: '王馨怡', 
         title: '2023级',
         desc:'188体育生，黑皮',
     }
