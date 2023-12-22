@@ -4,6 +4,15 @@
 
 ## 2023
 
+**Aspect-level sentiment classification with fused local and global context**
+
+_Ao Feng, Jiazhi Cai\*, Zhengjie Gao,Xiaojie Li_
+<div style='display: flex'>
+    <a href="https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00856-8"><img src="https://img.shields.io/badge/Journal-Journal of Big Data-brightgreen" /></a> 
+    <a href="https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00856-8"><img src="https://img.shields.io/badge/2区-ff69b4" /></a>
+</div>
+
+
 ## 2022
 
 **Unrestricted Attention May Not Be All You Need–Masked Attention Mechanism Focuses Better on Relevant Parts in Aspect-Based Sentiment Analysis**
@@ -88,8 +97,8 @@ _Zhengjie Gao, Ao Feng\*, Xinyu Song, Xi Wu_
 <div style='display: flex'>
     <a href="https://ieeexplore.ieee.org/abstract/document/8864964/"><img src="https://img.shields.io/badge/Journal-IEEE Access-brightgreen" /></a> 
     <a href="https://ieeexplore.ieee.org/abstract/document/8864964/"><img src="https://img.shields.io/badge/3区-ff69b4" /></a>
-    &nbsp;<a href='https://github.com/gaozhengjie/TD-BERT'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a>
-    &nbsp;<a style="pointer-events:none;"><img src="https://img.shields.io/badge/Cited times in Google Scholar-334-4e71f2" /></a>
+    &nbsp;<a href="https://github.com/gaozhengjie/TD-BERT"><img src="https://img.shields.io/badge/Code-GitHub-red" /></a>
+    &nbsp;<a href="https://so.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Target-dependent+sentiment+classification+with+BERT&btnG="><img src="https://img.shields.io/badge/Cited times in Google Scholar-379-4e71f2" /></a>
 </div>
 
 
@@ -172,7 +181,7 @@ _Ramesh Nallapati, Ao Feng, Fuchun Peng, James Allan_
 <div style='display: flex'>
     <a href="https://dl.acm.org/doi/abs/10.1145/1031171.1031258"><img src="https://img.shields.io/badge/Conference-CIKM-brightgreen" /></a> 
     <a href="https://dl.acm.org/doi/abs/10.1145/1031171.1031258"><img src="https://img.shields.io/badge/CCF B-ff69b4" /></a> 
-    &nbsp;<a style="pointer-events:none;"><img src="https://img.shields.io/badge/Cited times in Google Scholar-341-4e71f2" /></a>
+    &nbsp;<a href="https://so.cljtscd.com/scholar?q=Event+Threading+within+News+topics"><img src="https://img.shields.io/badge/Cited times in Google Scholar-347-4e71f2" /></a>
 </div>
 
 ## 2003
